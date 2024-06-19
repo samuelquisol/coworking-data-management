@@ -1,0 +1,7 @@
+development:
+  DB_HOST: "ep-ancient-bonus-a4n16bkr-pooler.us-east-1.aws.neon.tech"
+  DB_PORT: 5432
+  DB_USERNAME: "default"
+  DB_PASSWORD: "L3XYMuDOT0jZ"
+  DB_DATABASE: "verceldb"
+  
